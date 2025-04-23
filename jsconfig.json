@@ -1,7 +1,12 @@
 {
   "compilerOptions": {
+    "baseUrl": ".",
+    // other options
+    "jsx": "react",
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": [
+        "src/*"
+      ]
     }
   }
 }

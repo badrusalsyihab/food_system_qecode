@@ -34,4 +34,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# food_system_qecode
+# Restaurant Table Ordering System with Next.js, Tailwind CSS, and MySQL
+I'll create a comprehensive restaurant table ordering system based on your requirements. Here's how we'll structure it:
+
+#System Architecture
+- Frontend: Next.js (App Router) with Tailwind CSS
+- Backend: API Routes in Next.js
+- Database: MySQL
+
+# Features:
+- QR code scanning to access table-specific menu
+- Menu browsing and cart management
+- Order submission with special requests
+- Kitchen order display
+- Order status tracking
+
